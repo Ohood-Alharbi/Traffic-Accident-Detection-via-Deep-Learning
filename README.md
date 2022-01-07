@@ -26,7 +26,7 @@ The main technologies and libraries that used are:
 *	SKlearn
 *	keras
 *	Tensorflow
-and other Python libraries or tools will use if needed.
+and other Python libraries or tools will be used if needed.
 
 ## Developers:
 * [Ohood Alharbi](https://github.com/Ohood-Alharbi)
