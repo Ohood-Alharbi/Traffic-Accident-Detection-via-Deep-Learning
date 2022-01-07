@@ -5,9 +5,9 @@ Each year approximately 1.25 million people die as a result of traffic accidents
 
 ## Approach
 Our plan in the project is to:
-* •	Find data that meets our goal.
-* •	Build a deep learning model(CNN).
-* •	Build a classification model.
+* Find data that meets our goal.
+* Build a deep learning model(CNN).
+* Build a classification model.
 
 
 ## Data Description
@@ -16,16 +16,16 @@ Our plan in the project is to:
 ## Tools Description
 The main technologies and libraries that used are:
 ### Technologies:
-•	Python
-•	Jupyter Notebook
+*	Python
+*	Jupyter Notebook
 ### Libraries:
-•	Pandas
-•	Numpy
-•	Matlibplot
-•	Seaborn
-•	SKlearn
-•	keras
-•	Tensorflow
+* Pandas
+*	Numpy
+*	Matlibplot
+*	Seaborn
+*	SKlearn
+*	keras
+*	Tensorflow
 and other Python libraries or tools will use if needed.
 
 ## Developers:
