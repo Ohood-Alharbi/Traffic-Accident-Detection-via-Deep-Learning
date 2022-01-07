@@ -4,7 +4,7 @@
 </p>
 
 ## Introduction
-Each year approximately 1.25 million people die as a result of traffic accidents. An additional 20 million to 50 million people suffer non-fatal injuries and many become disabled as a result. Traffic injuries cause great economic losses to individuals, their families and entire nations. In this project, we will use deep learning models that sends an alert to the nearest police station through street cameras.So, we will expriment the most suitable model for our situation and in traffic accidents detection.
+Each year approximately 1.25 million people die as a result of traffic accidents. An additional 20 million to 50 million people suffer non-fatal injuries and many become disabled as a result. Traffic injuries cause great economic losses to individuals, their families and entire nations. In this project, we will use deep learning models that sends an alert to the nearest police station through street cameras. So, we will expriment the most suitable model for our situation and in traffic accidents detection.
 
 ## Data Description
 This dataset was created to detect accidents in real-time from cctv footage. It contains frames captured from Youtube Videos involving acccidents.
