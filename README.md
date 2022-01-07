@@ -35,7 +35,7 @@ The main technologies and libraries that used are:
 *	Tensorflow
 and other Python libraries or tools will be used if needed.
 
-## Developers:
+## Contributors:
 * [Ohood Alharbi](https://github.com/Ohood-Alharbi)
 * [Ajwad Saleh](https://github.com/Ajwadsm)
 * [Reem Alghamdi](https://github.com/Reem1428)     
