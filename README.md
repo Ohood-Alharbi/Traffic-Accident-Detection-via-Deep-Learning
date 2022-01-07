@@ -17,7 +17,7 @@ Our plan in the project is to:
 * Find data that meets our goal.
 * Build a deep learning model(CNN).
 * Build a classification model.
-* Need: This project will assist the General Traffic Department in responding quickly to traffic accidents, knowing how the accident occurred, identifying who cause the accident and taking the necessary measures against it.
+* Need: This project will assist the General Traffic Department in responding quickly to traffic accidents, knowing how the accident occurred, identifying who cause the accident and taking the necessary measures against him.
 
 
 ## Tools Description
